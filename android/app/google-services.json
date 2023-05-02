@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083668503913",
+    "project_id": "traze-93248",
+    "storage_bucket": "traze-93248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083668503913:android:ed6b705518d134eb50f1f8",
+        "android_client_info": {
+          "package_name": "com.example.traze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083668503913-38h4citohnk6gsj3bu78plt05d7n7nhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkQDOjcletHiEFTZZuJg9KA9NL5W-QUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083668503913-38h4citohnk6gsj3bu78plt05d7n7nhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
